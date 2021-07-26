@@ -31,7 +31,7 @@ El método del gradiente descendente permite converger hacia el valor mínimo de
 -	Repetir el proceso iterativo hasta minimizar la función
 Este método es comúnmente utilizado para funciones lineales 
  
-En el archivo [Punto 1_1](1.1 Gradiente_descendente.py) se desarrolla el método de gradiente descendente para las dos funciones seleccionadas
+En el archivo [Punto 1_1](docs/1.1 Gradiente_descendente.py) se desarrolla el método de gradiente descendente para las dos funciones seleccionadas
 
 **1.2.** Optimice las funciones en dos y tres dimensiones usando: algoritmos evolutivos, optimización de partículas y evolución diferencial
 
